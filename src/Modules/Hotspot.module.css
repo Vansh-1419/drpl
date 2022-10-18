@@ -1,0 +1,8 @@
+.head p {
+  background-color: rgb(205, 155, 93);
+  position: relative;
+  color: white;
+  width: 6rem;
+  top: -0.5rem;
+  transform: skewX(-14deg);
+}

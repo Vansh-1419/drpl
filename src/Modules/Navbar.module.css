@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+}
+.nav {
+  display: flex;
+  flex-direction: row;
+  margin-left: 20rem;
+  height: 2rem;
+  align-items: center;
+}
+
+.nav div {
+  display: flex;
+  flex-direction: row;
+  margin-left: 2rem;
+}
+
+.nav div span {
+  margin-left: 1rem;
+}
+.logo {
+  width: 11rem;
+}
+.follow img {
+  height: 1.5rem;
+  margin-left: 1rem;
+}

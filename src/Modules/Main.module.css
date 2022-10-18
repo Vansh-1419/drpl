@@ -1,0 +1,64 @@
+.main {
+  background-color: #e3e0e0;
+  height: 40rem;
+  display: flex;
+  flex-direction: column;
+}
+.display {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+  width: 61rem;
+  border-radius: 10px;
+  height: 25rem;
+  margin-left: 20rem;
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+}
+.active {
+  background: white;
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  width: 30rem;
+  height: 25rem;
+}
+.active img {
+  height: 15rem;
+  width: 100%;
+}
+.side {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 32rem;
+  height: 25rem;
+  border-radius: 10px;
+  /* margin: 1rem; */
+}
+.side div {
+  display: flex;
+  background-color: white;
+  flex-direction: column;
+  width: 15rem;
+  margin-left: 5px;
+  height: 12.2rem;
+  margin-bottom: 0.4rem;
+}
+.side div img {
+  height: 8rem;
+  width: 100%;
+}
+.hotspot {
+  background-color: white;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 60.5rem;
+  border-radius: 10px;
+  height: 7rem;
+  margin-left: 20rem;
+  margin-top: 0rem;
+}

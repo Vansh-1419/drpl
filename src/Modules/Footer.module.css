@@ -1,0 +1,53 @@
+footer {
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(21, 23, 27);
+}
+.info {
+  display: flex;
+  flex-direction: column;
+  color: white;
+  position: relative;
+  margin-left: 20rem;
+  margin-top: 1rem;
+  width: 30rem;
+  align-items: center;
+}
+.genre h4 {
+  color: rgb(227, 175, 71);
+}
+.genre p {
+  margin-top: 1rem;
+  font-size: 0.9rem;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.about img {
+  margin-top: 1rem;
+  color: rgb(227, 175, 71);
+  width: 15rem;
+}
+.about p {
+  font-size: 0.9rem;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.links {
+  margin-left: 25rem;
+  color: white;
+}
+.follow {
+  margin-top: 1.3rem;
+}
+.links h4 {
+  margin-top: 1rem;
+  color: rgb(227, 175, 71);
+}
+.links p {
+  margin-top: 0.7rem;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 0.9rem;
+}
+.copy {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
